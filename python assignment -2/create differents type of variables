@@ -1,0 +1,9 @@
+# write a python script to create 5 variables ech of them containing differents type of data (like 35,"mysig",5.25,3+4j,etc)
+
+a=35
+b=True
+c=3+5j
+d=1.5
+e="Ineuron"
+
+print(type(a),type(b),type(c),type(d),type(e))
